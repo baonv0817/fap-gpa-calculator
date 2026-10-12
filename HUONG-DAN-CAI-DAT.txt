@@ -1,0 +1,13 @@
+FAP GPA Calculator - Huong dan cai dat (Chrome / Edge / Coc Coc / Brave)
+
+1. Giai nen file zip ra mot thu muc co dinh (dung xoa thu muc nay sau khi cai).
+2. Mo trang quan ly extension:
+   - Chrome / Coc Coc / Brave: chrome://extensions
+   - Edge: edge://extensions
+3. Bat "Developer mode" (Che do nha phat trien).
+4. Bam "Load unpacked" (Tai tien ich da giai nen) -> chon thu muc vua giai nen
+   (thu muc co chua file manifest.json).
+5. Vao FAP -> Bao cao hoc tap -> Bang diem. Khung "GPA Calculator" se hien ngay tren bang diem.
+
+Extension chi doc bang diem tren trang cua ban, khong gui du lieu di dau ca.
+Diem thu duoc luu tren trinh duyet cua ban.

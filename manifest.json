@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "FAP GPA Calculator",
+  "version": "1.0.0",
+  "description": "Tính GPA theo kỳ, GPA tích lũy và dự tính GPA tốt nghiệp trên trang Bảng điểm của FAP (FPT University).",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://fap.fpt.edu.vn/Report/Transcript*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
