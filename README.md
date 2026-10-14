@@ -11,6 +11,13 @@ Extension cho Chrome / Edge giúp sinh viên FPT University tính GPA ngay trên
   - Điền nhanh một điểm cho tất cả môn còn trống.
   - Đặt **mục tiêu GPA** để xem các tín chỉ còn lại cần đạt trung bình bao nhiêu.
 - **Bật/tắt từng môn** khỏi GPA.
+- **Ước lượng điểm môn** (trang **Báo cáo điểm**):
+  - Sửa thử điểm từng cột thành phần; điểm tổng tính lại theo trọng số, làm tròn như FAP.
+  - Điểm thi lại (Resit) tự thay cho cột thi chính tương ứng; có cộng điểm bonus.
+  - Cho biết cần trung bình bao nhiêu ở các cột còn trống để đạt điểm mong muốn.
+  - Kiểm tra điều kiện qua môn (tham khảo): tổng ≥ 5, không cột nào bằng 0, thi cuối kỳ ≥ 4.
+  - Tự thêm cột điểm cho môn đang học (FAP chưa hiện cột khi chưa có điểm).
+  - Nút **Dùng cho GPA** để đưa điểm tổng dự tính sang trang Bảng điểm.
 - Điểm thử được **lưu lại trên trình duyệt** của bạn.
 - Tự đổi theo **chế độ sáng/tối** của FAP.
 
